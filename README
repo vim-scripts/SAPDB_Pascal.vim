@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=486
+
+Its used to highlight syntax for pascal source files from "http://www.sapdb.org&quot;. Special SAPDB types and procedure calls are highlighted.
